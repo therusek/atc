@@ -1,0 +1,14 @@
+{
+  "name": "Sprint Air",
+  "icao": "SRN",
+  "callsign": {
+    "name": "SprintAir",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+      ["SF34", 11],
+      ["AT72", 2]
+    ]
+  }
+}

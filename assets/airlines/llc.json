@@ -1,0 +1,13 @@
+{
+  "name": "Small Planet Airlines",
+  "icao": "LLC",
+  "callsign": {
+    "name": "SmallPlanet",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+      ["A320", 9]
+    ]
+  }
+}

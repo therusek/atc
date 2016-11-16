@@ -1,0 +1,14 @@
+{
+  "name": "Tailwind Airlines",
+  "icao": "TWI",
+  "callsign": {
+    "name": "Tailwind",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+      ["B734", 5],
+      ["B738", 2]
+    ]
+  }
+}

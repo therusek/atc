@@ -1,0 +1,13 @@
+{
+  "name": "Travel Service Polska",
+  "icao": "TVP",
+  "callsign": {
+    "name": "JetTravel",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+      ["B738", 1]
+    ]
+  }
+}

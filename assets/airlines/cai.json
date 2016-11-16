@@ -1,0 +1,13 @@
+{
+  "name": "Corendon Airlines",
+  "icao": "CND",
+  "callsign": {
+    "name": "Corendon",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+    	["B738", 11]
+    ]
+  }
+}

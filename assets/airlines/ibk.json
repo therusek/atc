@@ -1,0 +1,13 @@
+{
+  "name": "Norwegian Air International",
+  "icao": "IBK",
+  "callsign": {
+    "name": "Nor Trans",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+      ["B738", 41]
+    ]
+  }
+}

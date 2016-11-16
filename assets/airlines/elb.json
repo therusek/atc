@@ -1,0 +1,16 @@
+{
+  "name": "Ellinair",
+  "icao": "LZB",
+  "callsign": {
+    "name": "Ellinair Hellas",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+    	["A319", 2],
+      ["B733", 2],
+      ["B734", 1],
+      ["RJ85", 1]
+    ]
+  }
+}

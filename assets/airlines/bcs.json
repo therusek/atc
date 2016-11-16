@@ -1,0 +1,20 @@
+{
+  "name": "European Air Transport",
+  "icao": "BCS",
+  "callsign": {
+    "name": "Eurotrans",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+    	["B752", 31],
+    	["B734", 11],
+      ["B733", 6],
+      ["AT72", 1],
+      ["AT43", 1]
+    ],
+    "long": [
+    	["A306", 21]
+    ]
+  }
+}

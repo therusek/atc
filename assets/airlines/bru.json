@@ -1,0 +1,19 @@
+{
+  "name": "Belavia Belarusian Airlines",
+  "icao": "BRU",
+  "callsign": {
+    "name": "Belarus Avia",
+    "length": 4
+  },
+  "fleets": {
+      "default": [
+            ["B733", 9],
+            ["B735", 6],
+            ["B738", 2],
+            ["CRJ2", 4],
+            ["E170", 2],
+            ["E190", 2],
+            ["T154", 3]
+            ]
+    }
+}

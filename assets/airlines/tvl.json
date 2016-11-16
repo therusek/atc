@@ -1,0 +1,13 @@
+{
+  "name": "Travel Service Hungary",
+  "icao": "TVL",
+  "callsign": {
+    "name": "Travel Service",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+      ["B738", 1]
+    ]
+  }
+}

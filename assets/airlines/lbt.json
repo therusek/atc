@@ -1,0 +1,13 @@
+{
+  "name": "Nouvel Air Tunisie",
+  "icao": "LBT",
+  "callsign": {
+    "name": "Nouvelair",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+      ["A320", 9]
+    ]
+  }
+}
